@@ -1,0 +1,16 @@
+[INFO]2020-01-14 23:18:19-main:程序启动
+[INFO]2020-01-14 23:18:20-__add_schedule_background_tasks:[<Job (id=79382ae0128044b09768c79a000ad0b6 name=SchedulerCalendar.__show_day_info_msg)>, <Job (id=8b61219f9a2f4311a73a985359372f3f name=SchedulerCalendar.__move_to_new_today)>]
+[INFO]2020-01-14 23:18:40-__show_day_info_msg:每天上午10点定时提醒
+[INFO]2020-01-14 23:19:00-__show_day_info_msg:每天上午10点定时提醒
+[INFO]2020-01-14 23:19:05-__add_schedule:[<Job (id=79382ae0128044b09768c79a000ad0b6 name=SchedulerCalendar.__show_day_info_msg)>, <Job (id=b604471f1b2f449ea01f0ba7f56d0494 name=SchedulerCalendar.__show_msg)>, <Job (id=8b61219f9a2f4311a73a985359372f3f name=SchedulerCalendar.__move_to_new_today)>]
+[INFO]2020-01-14 23:19:20-__show_day_info_msg:每天上午10点定时提醒
+[INFO]2020-01-14 23:19:40-__show_day_info_msg:每天上午10点定时提醒
+[INFO]2020-01-14 23:20:00-__show_msg:待办事项【操楼雅倩】提醒
+[INFO]2020-01-14 23:20:00-__show_day_info_msg:每天上午10点定时提醒
+[INFO]2020-02-16 22:01:01-main:程序启动
+[INFO]2020-02-16 22:01:02-__add_schedule_background_tasks:[<Job (id=0e4f94c63ef746ed90fc8367ee43f2e7 name=SchedulerCalendar.__move_to_new_today)>, <Job (id=a3705f380a1a4051975eaac73b66649c name=SchedulerCalendar.__show_day_info_msg)>]
+[INFO]2020-02-16 22:01:31-main:程序终止
+[INFO]2020-04-04 22:24:05-main:程序启动
+[INFO]2020-04-04 22:24:06-__add_schedule_background_tasks:[<Job (id=1d12ea4eb86d4010876abb60d8d00265 name=SchedulerCalendar.__move_to_new_today)>, <Job (id=eca8e3f99e3b4561af2e78f433457d33 name=SchedulerCalendar.__show_day_info_msg)>]
+[INFO]2020-04-04 22:27:40-__add_schedule:[<Job (id=1d12ea4eb86d4010876abb60d8d00265 name=SchedulerCalendar.__move_to_new_today)>, <Job (id=eca8e3f99e3b4561af2e78f433457d33 name=SchedulerCalendar.__show_day_info_msg)>]
+[INFO]2020-04-04 22:33:15-main:程序终止
